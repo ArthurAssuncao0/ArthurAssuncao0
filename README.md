@@ -4,6 +4,7 @@
 - I am studying C, Java, Assembly and Haskell 🧑‍💻
 - I love spiders 🕷️
 
+
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAssuncao0&hide=prs&count_private=true&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&count_private=true&line_height=25&locale=en)
@@ -23,5 +24,7 @@
   <a href = "mailto:arthurassuncao004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-assun%C3%A7%C3%A3o-046b74268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<img align="right" src="https://i.picasion.com/pic92/3dc82557f4da612eb3e0d05edf939d9e.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br />
 
   

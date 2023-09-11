@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAssuncao0&hide=prs&count_private=false&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&line_height=25&locale=en&PAT_1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAssuncao0&hide=prs&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&line_height=25&locale=en&PAT_1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAssuncao0&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&count_private=true&PAT_1)
 
 ## Development Languages

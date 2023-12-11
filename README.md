@@ -1,7 +1,7 @@
 ## I'm Assunção! And...
 
 - I am majoring in Computer Science at the Federal University of Uberlândia (UFU) 💻
-- I am studying C, Java, Assembly and Haskell 🧑‍💻
+- I am studying C and Java 🧑‍💻
 - I love spiders 🕷️
 
 
